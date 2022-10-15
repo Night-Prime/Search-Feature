@@ -11,7 +11,7 @@ const App = () => {
         <Form>
           <InputControl
             name="country"
-            label="Enter Country"
+            label="Enter Country: "
             placeholder="Type a country name"
           />
         </Form>
